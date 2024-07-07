@@ -6,6 +6,10 @@ Welcome to my Python journey! In this README, I will document my progress as I e
 
 <!-- link to day 1 folder -->
 - [Day 1](python-practices/day-1/)
+    - Installed Python and set up the development environment
+    - Learned about Python basics, data types, and variables
+    - Practiced writing simple Python scripts
+    - Completed exercises to reinforce learning
 
 ## Introduction
 
