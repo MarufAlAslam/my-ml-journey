@@ -2,6 +2,11 @@
 
 Welcome to my Python journey! In this README, I will document my progress as I embark on my journey to become a Python programmer, starting from an absolute beginner state.
 
+## Current Status
+
+<!-- link to day 1 folder -->
+- [Day 1](python-practices/day-1/)
+
 ## Introduction
 
 Python is a versatile and powerful programming language that has gained immense popularity in recent years. As a beginner, I am excited to dive into the world of Python and explore its endless possibilities.
