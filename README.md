@@ -11,6 +11,13 @@ Welcome to my Python journey! In this README, I will document my progress as I e
     - Practiced writing simple Python scripts
     - Completed exercises to reinforce learning
 
+- [Day 2](python-practices/day-2/)
+    - Reviewed Python basics and data types
+    - Learned about operators, expressions, and statements in Python
+    - Learned about strings, string manipulation, and string formatting
+    - Practiced writing Python scripts to work with strings
+    - Completed exercises to reinforce learning
+
 ## Introduction
 
 Python is a versatile and powerful programming language that has gained immense popularity in recent years. As a beginner, I am excited to dive into the world of Python and explore its endless possibilities.
